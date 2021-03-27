@@ -1,0 +1,13 @@
+---TEST LOGS BY SETTING 10,30,50 SECONDS---
+Drank Water at 2021-03-27 17:26:55.609462
+Done Eyes exercise at 2021-03-27 17:27:09.879719
+Drank Water at 2021-03-27 17:27:14.631265
+Drank Water at 2021-03-27 17:27:29.959817
+Done Physical exercise at 2021-03-27 17:27:34.391237
+Done Eyes exercise at 2021-03-27 17:27:43.399735
+Drank Water at 2021-03-27 17:27:48.518912
+Drank Water at 2021-03-27 17:28:01.159735
+Drank Water at 2021-03-27 17:28:13.959277
+Done Eyes exercise at 2021-03-27 17:28:18.183516
+Drank Water at 2021-03-27 17:28:26.663527
+Done Physical exercise at 2021-03-27 17:28:32.711156
